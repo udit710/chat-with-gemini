@@ -8,6 +8,10 @@ This repository contains a simple chat application named "Chat with Gemini," pow
 - **User-Friendly Design**: Simple and intuitive interface for seamless interaction.
 - **AI-Powered Responses**: Receive intelligent and context-aware replies from the AI.
 
+## Hosting
+
+- Hosted using GCP cloudrun. Access [Here](https://chat-with-gemini-33007909451.us-central1.run.app/)
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
