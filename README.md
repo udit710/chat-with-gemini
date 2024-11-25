@@ -26,29 +26,19 @@ Follow these steps to set up and run the project locally:
 
 3. **Install Dependencies**:
 
-   Ensure you have [Python 3.x](https://www.python.org/downloads/) installed. Then, install the required packages:
+   Ensure you have npm 20 installed. Then, install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   npm install
    ```
 
-4. **Set Up Environment Variables**:
-
-   Create a `.env` file in the project root directory and add your Google API key:
-
-   ```
-   GOOGLE_API_KEY=your_api_key_here
-   ```
-
-   Replace `your_api_key_here` with your actual API key.
-
-5. **Run the Application**:
+4. **Run the Application**:
 
    ```bash
-   python app.py
+   npm run dev
    ```
 
-   The application will start, and you can access it via your web browser at `http://localhost:5000`.
+   The application will start, and you can access it via your web browser at `http://localhost:3000`.
 
 ## Usage
 
